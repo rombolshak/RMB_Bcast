@@ -7,7 +7,7 @@ It is usefull and faster than MPI realization on the data arrays with number of 
 
 It was tested only on Regatta machine. Results may vary on BlueGene architectures
 
-Typical compareness of RMB and MPI realizations looks like here (left is length of data array and bottom is time to broadcast it 1000 times):
+Typical comparison of RMB and MPI realizations looks like here (left is length of data array and bottom is time to broadcast it 1000 times):
 
 ![compare of realizations](https://docs.google.com/spreadsheet/oimg?key=0AoMv6fev4a2AdEVGZVROMTBkTEZFbUM5Rl9UcTdOSkE&oid=14&zx=e230ssmrywax)
 
